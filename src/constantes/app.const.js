@@ -1,0 +1,4 @@
+const INPUT_PLACEHOLDER = '[1,2,3]';
+const BUTTON_NAME = 'Calcul';
+
+export { INPUT_PLACEHOLDER, BUTTON_NAME };
