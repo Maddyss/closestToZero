@@ -1,4 +1,7 @@
 # ClosestToZero
+<p align="center">
+  <a href="https://github.com/Maddyss/closestToZero/actions"><img alt="Tests" src="https://github.com/Maddyss/closestToZero/workflows/Node.js%20CI/badge.svg"></a>
+</p>
 
 Given an array of positive and negative integers, it returns the closest number to zero. If the closest number in input could be either negative r positive, the function returns the positive one. If the input array is undefined or empty, the function returns 0.
 
