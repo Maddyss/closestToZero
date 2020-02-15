@@ -22,4 +22,7 @@ describe('closestToZero', () => {
   it('when input is [5, 1, -1, 1] it must return 1', () => {
     expect(closestToZero('[5, 1, -1, 1]')).toBe(1);
   });
+  it('when input is [-1, 0, 1] it must return 1', () => {
+    expect(closestToZero('[-1, 0, 1]')).toBe(1);
+  });
 });
